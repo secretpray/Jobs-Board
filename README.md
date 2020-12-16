@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Jobs Board app
 
-Things you may want to cover:
 
-* Ruby version
+I build a Jobs Board application. We have the ability to Add, Edit, Destroy jobs postings and each job post is assigned to a category, and we are able to filter between the various categories to see only jobs within that category (For example, only “Full-Time” jobs).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[View the demo application here](https://jobs-board-2020.herokuapp.com/)
